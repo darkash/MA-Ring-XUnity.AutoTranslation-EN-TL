@@ -1,5 +1,0 @@
-r:"([0-9]+)小时前"=$1 hours ago
-r:"系統消息:[(\S+)]加入了房間"=System news: [$1] has joined the room!
-r:"系統消息:房主[(\S+)]修改了房間設置"=System news: The owner [$1] has modified the room settings.
-r:"第([0-9]+)天=Day $1
-r:"([0-9]+×[0-9]+\W+)（全螢幕）"=$1 (Full Screen)
