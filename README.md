@@ -8,7 +8,7 @@ MA Ring Translation File Using MTL + Community TL References
 # How To Use
 1. Follow the procedure on [Discord](https://discord.com/channels/175958795426463744/1279728852620542002/1289603259790786561)
 2. Copy the following text and replace the content of `AutoTranslatorConfig.ini` in `Game/BepinEx/config` folder
-```txt
+```ini
 [Service]
 Endpoint=DeepLTranslate
 FallbackEndpoint=GoogleTranslateV2
