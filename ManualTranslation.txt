@@ -97,3 +97,16 @@
 一次共鳴=Single Pull
 十次共鳴=Ten Pulls
 活動=Event
+魔法抗性提升=Magic Res. Up
+物理抗性提升=Physical Res. Up
+技能威力提升=Skill Power Up
+等待其他玩家中=Waiting for other players
+物理防禦降低=Physical Def. Down
+生命上限提升=Max. HP Up
+嘲諷=Taunt
+已選擇=Selected
+守=Def
+魔=Mag
+返回戰鬥=Back to battle
+全攻擊提升=Full Atk. Up
+專屬=Sp.
