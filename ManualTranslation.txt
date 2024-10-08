@@ -8,8 +8,9 @@
 流暢=Smooth
 擁擠=Crowded
 已滿=Full
-常用伺服器=Common Servers
-推薦伺服器=Recommended Server
+常用伺服器=Common
+推薦伺服器=Suggested
+所有伺服器=All
 耶夢加得=Jormundgandr
 阿斯加德=Asgard
 赫布里底=Hebrides
@@ -108,7 +109,7 @@
 守=Df
 魔=Mg
 返回戰鬥=Back to battle
-全攻擊提升=Full Atk. Up
+全攻擊提升=All Atk. Up
 魔法攻擊提升=Magic Atk. Up
 物理攻擊提升=Physical Atk. Up
 專屬=Sp.
@@ -116,7 +117,7 @@
 暴擊率提升=Critical Rate Up
 治=Rc
 抽牌數提升=Card Draw Up
-全防禦提升=Full Def. Up
+全防禦提升=All Def. Up
 物理防禦提升=Physical Def. Up
 魔法防禦提升=Magic Def. Up
 造型=Skin
@@ -153,3 +154,11 @@
 支援=Support
 強襲=Assault
 守護=Guard
+生命值=HP
+每日僅首次=Once/Day
+美少女……=Beautiful Girl ......
+技巧之場=Techno Smith
+劍術之城=Blade Protector
+回顧=Log
+魔法之派=Sorcery King
+重新挑戰=Restart
